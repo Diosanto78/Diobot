@@ -9,10 +9,7 @@ import moment from 'moment-timezone';
 
 global.owner = [
   ['393296080130', 'nobody|'],
-  ['393296080130', 'nobody|'],
-  ['393296080130', 'nobody|'],
-  ['393296080130', 'nobody|'],
-  ['393296080130', 'nobody|'],
+  
 ]
 global.suittag = ['393296080130'] 
 global.prems = ['393296080130'] 
